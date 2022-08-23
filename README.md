@@ -1,7 +1,7 @@
 # Master`s thesis
 You can find  the abstract and the presentation of my Master's thesis on the topic "Chatbot for supporting families of people with dementia".
 
-*Abstract
+*Abstract*
 
 Currently, dementia is considered as a global problem, as the disease increase is about 10 million people a year, and this rate is constantly growing. Dementia affects not only patients, but also people caring for them. There is a global problem of informing the population about dementia. Despite the fact that nowadays there is a large number of sources, the general awareness of people about dementia remains low.
 
