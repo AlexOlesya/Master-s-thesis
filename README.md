@@ -1,5 +1,5 @@
 # Master`s thesis
-You can find  the abstract of my Master's thesis on the topic "Chatbot for supporting families of people with dementia", as well as the presentation and development code
+You can find  the abstract and the presentation of my Master's thesis on the topic "Chatbot for supporting families of people with dementia".
 
 *Abstract*
 
